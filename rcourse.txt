@@ -7,7 +7,7 @@
 [[datiname.jpg]]
 |-----|-----|
 | A  | B |
-
+| 1  |
 
 * Tag 1
 ** Einführung in Programmiersprach / Skriptsprache
