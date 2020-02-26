@@ -1,0 +1,78 @@
+* TEIL IM PDF INHALTSVERZEICHNIS
+** Überschrift im PDF Inhaltsverzeichnis
+*** 
+**** Überschrift Folie
+***** Unterpunkte auf der Folie
+****** Unterunterpunkt
+[[datiname.jpg]]
+|-----|-----|
+| A  | B |
+
+
+* Tag 1
+** Einführung in Programmiersprach / Skriptsprache
+** RStudio and R
+** Help / Basic commands / Commands / argumenst
+** Data types and conversion / Pipes / Memory managment
+
+
+
+*** Elementary data types
+Tabelle Ligges 2005
+
+
+**** Type detection
+is.factor 
+
+**** Type conversion
+
+\rcode{
+
+
+}
+
+*** Basic functions on vectors
+
+**** unique
+
+
+
+** data.frame
+*** Properties
+*** missing values usw.
+** Control structures
+*** Loops
+
+** Object referencing  
+[[1,.]]
+[,1]
+
+** Loading Packages in R
+
+** Data import  / export Rio
+suffix de
+arguments of specific import funtion  from help 
+
+** Descriptive Analysis with R
+
+
+
+* Tag 2 
+** Data wrangling and formating
+*** mutate usw.
+
+
+
+* Tag 4 
+*** Graphical analysis with ggplot 2
+*** Presenting results stargazer 
+
+*** Scoping rules
+*** Linear models / GLM with R
+
+
+**** Folie Name
+***** Unterpunkt 1
+***** Unterpunkt 2 
+****** Unterunterpunkt 1
+****** Unterunterpunkt 2
